@@ -1,0 +1,12 @@
+{
+  "hello": "Hello",
+  "login": "Log in",
+  "logout": "Log out",
+  "welcome": {
+    "title": "Find and sell local services",
+    "subtitle": "Connect entrepreneurs and clients in your city",
+    "ctaSeller": "I'm an entrepreneur",
+    "ctaClient": "I'm a client",
+    "continue": "Continue"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "hello": "Hola",
+  "login": "Iniciar sesión",
+  "logout": "Cerrar sesión",
+  "welcome": {
+    "title": "Encuentra y vende servicios locales",
+    "subtitle": "Conecta emprendedores y clientes en tu ciudad",
+    "ctaSeller": "Soy emprendedor",
+    "ctaClient": "Soy cliente",
+    "continue": "Continuar"
+  }
+}
